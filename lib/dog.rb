@@ -13,3 +13,4 @@ class Dog
   end 
 end 
 
+slime = Dog.new
