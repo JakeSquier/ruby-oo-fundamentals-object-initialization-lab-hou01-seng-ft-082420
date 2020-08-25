@@ -13,4 +13,4 @@ class Dog
   end 
 end 
 
-slime = Dog.new
+slime = Dog.new("Mutt")
